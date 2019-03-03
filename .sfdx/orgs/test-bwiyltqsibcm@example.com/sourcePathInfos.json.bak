@@ -2,14 +2,14 @@
     [
         "/Users/k.chatterton/geolocation/force-app",
         {
+            "state": "n",
             "sourcePath": "/Users/k.chatterton/geolocation/force-app",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1551593705479,
             "changeTime": 1551593705479,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/k.chatterton/geolocation/force-app/main",
         {
+            "state": "n",
             "sourcePath": "/Users/k.chatterton/geolocation/force-app/main",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1551593705479,
             "changeTime": 1551593705479,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -36,23 +36,23 @@
             "sourcePath": "/Users/k.chatterton/geolocation/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1551595935857,
-            "changeTime": 1551595935857,
-            "contentHash": "26700fa385d7435b9658ffa27095dde3388347b1"
+            "size": 224,
+            "modifiedTime": 1551594328864,
+            "changeTime": 1551594328864,
+            "contentHash": "4e221285910e10ba09a94e0285f71f1fcf7be9c8"
         }
     ],
     [
         "/Users/k.chatterton/geolocation/force-app/main/default/aura",
         {
+            "state": "n",
             "sourcePath": "/Users/k.chatterton/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 64,
             "modifiedTime": 1551593705479,
             "changeTime": 1551593705479,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "/Users/k.chatterton/geolocation/force-app/main/default/lwc",
         {
+            "state": "n",
             "sourcePath": "/Users/k.chatterton/geolocation/force-app/main/default/lwc",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1551593737394,
             "changeTime": 1551593737394,
             "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -75,14 +75,14 @@
     [
         "/Users/k.chatterton/geolocation",
         {
+            "state": "n",
             "sourcePath": "/Users/k.chatterton/geolocation",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 288,
             "modifiedTime": 1551593734743,
             "changeTime": 1551593734743,
             "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -90,183 +90,144 @@
     [
         "/Users/k.chatterton/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/k.chatterton/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1551594328843,
             "changeTime": 1551594328843,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
         }
     ],
     [
         "/Users/k.chatterton/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/k.chatterton/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1551594328850,
             "changeTime": 1551594328850,
-            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
         }
     ],
     [
         "/Users/k.chatterton/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/k.chatterton/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1551594328855,
             "changeTime": 1551594328855,
-            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
         }
     ],
     [
         "/Users/k.chatterton/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/k.chatterton/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1551594328858,
             "changeTime": 1551594328858,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
         }
     ],
     [
         "/Users/k.chatterton/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/k.chatterton/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1551594328863,
             "changeTime": 1551594328863,
-            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
         }
     ],
     [
         "/Users/k.chatterton/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/k.chatterton/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1551594328864,
             "changeTime": 1551594328864,
-            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
         }
     ],
     [
         "/Users/k.chatterton/geolocation/force-app/main/default/objects/Account/fields",
         {
+            "state": "u",
             "sourcePath": "/Users/k.chatterton/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1551594328843,
             "changeTime": 1551594328843,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
         }
     ],
     [
         "/Users/k.chatterton/geolocation/force-app/main/default/objects/Account",
         {
+            "state": "u",
             "sourcePath": "/Users/k.chatterton/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1551594328842,
             "changeTime": 1551594328842,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
         }
     ],
     [
         "/Users/k.chatterton/geolocation/force-app/main/default/objects",
         {
+            "state": "u",
             "sourcePath": "/Users/k.chatterton/geolocation/force-app/main/default/objects",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1551594328842,
             "changeTime": 1551594328842,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
         }
     ],
     [
         "/Users/k.chatterton/geolocation/force-app/main/default/layouts",
         {
+            "state": "u",
             "sourcePath": "/Users/k.chatterton/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1551594328862,
             "changeTime": 1551594328862,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
         }
     ],
     [
         "/Users/k.chatterton/geolocation/force-app/main/default/permissionsets",
         {
+            "state": "u",
             "sourcePath": "/Users/k.chatterton/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1551594328864,
             "changeTime": 1551594328864,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/k.chatterton/geolocation/force-app/main/default/classes",
-        {
-            "state": "u",
-            "sourcePath": "/Users/k.chatterton/geolocation/force-app/main/default/classes",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1551595935870,
-            "changeTime": 1551595935870,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
-        }
-    ],
-    [
-        "/Users/k.chatterton/geolocation/force-app/main/default/classes/AccountController.cls",
-        {
-            "state": "u",
-            "sourcePath": "/Users/k.chatterton/geolocation/force-app/main/default/classes/AccountController.cls",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 292,
-            "modifiedTime": 1551596027206,
-            "changeTime": 1551596027206,
-            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7"
-        }
-    ],
-    [
-        "/Users/k.chatterton/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/k.chatterton/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 195,
-            "modifiedTime": 1551595935870,
-            "changeTime": 1551595935870,
-            "contentHash": "7acf1df0ec0781930c8dacf0ffedfb1e5aa2864f"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
         }
     ]
 ]
